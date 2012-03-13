@@ -1,6 +1,6 @@
 <?php
 /**
- * 生成点击热力图
+ * 生成点击热图
  * @author clicki http://www.clicki.cn
  */
 class HeatMap {
